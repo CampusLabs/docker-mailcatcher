@@ -1,4 +1,4 @@
-FROM quay.io/orgsync/ruby:2.2
+FROM quay.io/orgsync/ruby:2.2.3
 MAINTAINER Joshua Griffith <joshua@orgsync.com>
 
 ENV MAILCATCHER_VERSION 0.6.4
